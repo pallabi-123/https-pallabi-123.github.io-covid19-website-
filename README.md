@@ -6,4 +6,7 @@ Visual Dashboard (desktop): https://www.arcgis.com/apps/opsdashboard/index.html#
 
 Visual Dashboard (mobile): http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 
+project displayed on
+https://www.covid19india.org/
+
 
